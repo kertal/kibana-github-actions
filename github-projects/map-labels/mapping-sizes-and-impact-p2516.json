@@ -24,58 +24,13 @@
     }
   },
   "loe:needs-research": null,
-  "Feature:ES|QL": {
+  "Team:DataDiscovery": {
     "Team": "AppEx 2"
   },
-  "Feature:Alerting": {
-    "Team": "AppEx 2"
-  },
-  "Feature:Embeddables": {
+  "Team:Visualizations": {
     "Team": "AppEx 1"
   },
-  "Feature:FieldFormatters": {
-    "Team": "AppEx 2"
+  "Team:Presentations": {
+    "Team": "AppEx 1"
   },
-  "Feature:Data Views": {
-    "Team": "AppEx 2"
-  },
-  "Feature:BackgroundSearch": {
-    "Team": "AppEx 2"
-  },
-  "Feature:Search": {
-    "Team": "AppEx 2"
-  },
-  "Project:OneDiscover": {
-    "Project": "One Discover"
-  },
-  "Feature:UnifiedDocViewer": {
-    "Project": "Unified Doc Viewer"
-  },
-  "Feature:UnifiedDataTable": {
-    "Project": "Unified Data Table"
-  },
-  "Feature:UnifiedFieldList": {
-    "Project": "Unified Field List"
-  },
-  "Feature:UnifiedHistogram": {
-    "Project": "Unified Histogram"
-  },
-  "Project:Accessibility": {
-    "Project": "A11y"
-  },
-  "performance": {
-    "Project": "Performance"
-  },
-  "technical debt": {
-    "Project": "Tech Debt"
-  },
-  "test-failure-flaky": {
-    "Project": "Test Failures"
-  },
-  "failed-test": {
-    "Project": "Test Failures"
-  },
-  "skipped-test": {
-    "Project": "Test Failures"
-  }
 }
