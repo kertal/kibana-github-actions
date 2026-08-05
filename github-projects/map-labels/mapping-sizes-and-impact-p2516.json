@@ -25,12 +25,24 @@
   },
   "loe:needs-research": null,
   "Team:DataDiscovery": {
-    "Team": "AppEx 2"
+    "Team": "Discover"
   },
   "Team:Visualizations": {
-    "Team": "AppEx 1"
+    "Team": "Dashboards"
   },
   "Team:Presentations": {
-    "Team": "AppEx 1"
+    "Team": "Dashboards"
   },
+  "Team:SharedUX": {
+    "Team": "Global UX"
+  },
+  "Team:EUI": {
+    "Team": "Global UX"
+  },
+  "Team:ML": {
+    "Team": "Search ML"
+  },
+  "Team:Search": {
+    "Team": "Search ML"
+  }
 }
